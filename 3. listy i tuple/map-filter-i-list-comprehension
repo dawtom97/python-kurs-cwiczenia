@@ -1,0 +1,14 @@
+1. Masz listę liczb. Zwróć nową listę, w której każda liczba jest podwojona.
+nums = [1, 2, 3, 4, 5]
+
+2. Z listy wybierz tylko liczby parzyste.
+nums = [1, 2, 3, 4, 5, 6]
+
+3. Masz listę słów. Zamień wszystkie na wielkie litery.
+words = ["kot", "pies", "ryba"]
+
+4. Z listy wybierz liczby większe niż 3, a następnie podnieś je do kwadratu.
+nums = [1, 2, 3, 4, 5]
+
+5. Zwróć słowa w nowej liście, jeśli mają więcej niż 3 znaki.
+words = ["ala", "kot", "samochód", "dom", "rower"]
