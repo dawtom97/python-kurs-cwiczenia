@@ -1,9 +1,18 @@
-1.
-Napisz dwie zmienne określające liczby parzyste i nieparzyste
-Następnie napisz pętlę for która wykonuje się w zakresie liczby 1,100
-Jeśli aktualna iteracja jest liczbą parzystą zwiększaj o 1
-zmienną z liczbami parzystymi, jeśli jest liczbą nieparzystą zwiękaszj
-zmienną z liczbami nieparzystymi.
+imiona = ["Kasia","Jan","Zbigniew"]
+
+Napisz pętlę for, która wyświetli każdy z elementów listy w stylu: "To jest Jan"
+
+2.
+tekst = "w29iwwnas292i2929"
+
+Napisz pętlę, która wyświetli tylko litery pomijając liczby
+Opcjonalnie: Utwórz nową zmienną zawierającą tylko litery
+
+
+2. Napisz program (for..in..range), który:
+- przechodzi przez liczby od 1 do 50
+- sumuje tylko liczby podzielne przez 3
+- na końcu wypisuje wynik
 
 2.
 Fizz Buzz to popularna gra, która często jest używana jako zadanie
